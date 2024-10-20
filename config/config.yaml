@@ -1,0 +1,6 @@
+batch_size: 64
+learning_rate: 0.001
+num_epochs: 10
+data_path: "./data/dataset"
+log_path: "./logs/training.log"
+model_save_path: "./models/model_checkpoint.pth"
